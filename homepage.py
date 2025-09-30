@@ -1,4 +1,4 @@
-print("login page")
+print("home page")
 login = True
 if login:
     print("home page")
